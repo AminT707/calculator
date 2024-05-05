@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/amint324/amin-calculator/calculator/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/calculator_final.dir/code/calculator.cpp.o -c /Users/amint324/amin-calculator/calculator/code/calculator.cpp",
+  "file": "/Users/amint324/amin-calculator/calculator/code/calculator.cpp",
+  "output": "CMakeFiles/calculator_final.dir/code/calculator.cpp.o"
+}
+]
