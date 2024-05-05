@@ -1,0 +1,6 @@
+cd code
+
+g++ -o calculator calculator.cpp
+./calculator
+
+
